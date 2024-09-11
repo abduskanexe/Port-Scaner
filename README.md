@@ -30,6 +30,10 @@ This project is a simple **port scanner** developed in **Python** to enhance my 
 ### Basic Execution
 To run the basic port scanner:
 ```bash
-python port_scanner.py -t <IP/Host> -p <port_range>
+python scanner.py -t <IP/Host> -p <port_range>
+```
+To open the help menu
+```bash
+python3 scanner.py -h
 ```
 
