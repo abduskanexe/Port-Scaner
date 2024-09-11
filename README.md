@@ -28,7 +28,7 @@ This project is a simple **port scanner** developed in **Python** to enhance my 
 ## Usage
 
 ### Basic Execution
-To run the basic port scanner:
+To run the port scanner:
 ```bash
 sudo python scanner.py 
 ```
