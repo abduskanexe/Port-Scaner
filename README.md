@@ -17,12 +17,12 @@ This project is a simple **port scanner** developed in **Python** to enhance my 
 ## Installation
 1. Clone this repository:
     ```bash
-    git clone https://github.com/YourGitHubUsername/Port-Scanner.git
+    git clone https://github.com/abduskanexe/Port-Scanner.git
     ```
 2. Navigate to the project directory:
     ```bash
     cd Port-Scanner
-    ```
+    ```    
 3. Make sure you have all the necessary dependencies installed. If you wish to use Nmap, install it following the official [Nmap installation guide](https://nmap.org/book/inst-windows.html).
 
 ## Usage
@@ -32,7 +32,4 @@ To run the basic port scanner:
 ```bash
 python port_scanner.py -t <IP/Host> -p <port_range>
 ```
-### With Nmap
-```bash
-python port_scanner.py -n -t <IP/Host>
-```
+
